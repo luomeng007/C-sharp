@@ -4,7 +4,7 @@ using System.Globalization;
 // convert type of data, when our system is using German.
 namespace basicUsage
 {
-    class mainProgram
+    class dataTypeConvert01
     {
         static void Main(string[] args)
         {
@@ -24,3 +24,6 @@ namespace basicUsage
         }
     }
 }
+/*
+this method is not good enough to do so, we need to illustate this more in detail.
+*/
