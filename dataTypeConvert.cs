@@ -1,10 +1,9 @@
-﻿using System;
-using System.Globalization;
+using System;
 
-// all kinds of c sharp anotations
+// two kinds of method of converting type of data
 namespace basicUsage
 {
-    class mainProgram
+    class dataTypeConvert
     {
         static void Main(string[] args)
         {
@@ -24,3 +23,10 @@ namespace basicUsage
         }
     }
 }
+
+/*
+Attention:
+    but when the system of computer is not English, it may raise some problem, because in current "locale", 
+    the computer may not consider dot as decimal. So it may leave out dot. 
+    Then we may get a wrong result. 
+*/
