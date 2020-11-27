@@ -23,10 +23,12 @@ namespace basicUsage
             }
 
             Console.WriteLine("Method 2 to loop print element in array");
+            // create an enumerator contain array
             var enumerator = array.GetEnumerator();
-
+            // if we could reach the next position of enumerator
             while(enumerator.MoveNext())
             {
+                // print element in current position
                 Console.WriteLine($"A is {enumerator.Current}");
             }
         }
