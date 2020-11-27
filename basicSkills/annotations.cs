@@ -2,7 +2,7 @@ using System;
 
 namespace basicUsage
 {
-    public class Anotations
+    public class anotations
     {
         static void Main(string[] args)
         {
