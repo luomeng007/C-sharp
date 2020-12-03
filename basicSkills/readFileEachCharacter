@@ -9,7 +9,7 @@ namespace readData
         static void Main(string[] args)
         {
             #region method1: use using method to open file. we could leave out close progress
-                        string path = @"C:\Users\15025\Desktop\C#Debug\debug.txt";
+            string path = @"C:\Users\15025\Desktop\C#Debug\debug.txt";
             if (File.Exists(path))
             {
                 using StreamReader str1 = new StreamReader(path, Encoding.ASCII);
