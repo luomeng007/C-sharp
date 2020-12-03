@@ -8,7 +8,8 @@ namespace readData
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\15025\Desktop\C#Debug\debug.txt";
+            #region method1: use using method to open file. we could leave out close progress
+                        string path = @"C:\Users\15025\Desktop\C#Debug\debug.txt";
             if (File.Exists(path))
             {
                 using StreamReader str1 = new StreamReader(path, Encoding.ASCII);
@@ -24,6 +25,7 @@ namespace readData
 
                     // of course we could use a loop to print the content in this file at one time.
                     // in C # if could only follow bool type
+                    // when no value, str1.Peek() will get integer value -1
                     while (str1.Peek() != -1)
                     {
                         nextChar = str1.Read();
@@ -32,3 +34,8 @@ namespace readData
                     Console.WriteLine();
                 }
             }
+            # endregion
+            
+        }
+    }
+}
