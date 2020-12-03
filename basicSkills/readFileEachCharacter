@@ -26,6 +26,7 @@ namespace readData
                     // of course we could use a loop to print the content in this file at one time.
                     // in C # if could only follow bool type
                     // when no value, str1.Peek() will get integer value -1
+                    // space is also a character
                     while (str1.Peek() != -1)
                     {
                         nextChar = str1.Read();
