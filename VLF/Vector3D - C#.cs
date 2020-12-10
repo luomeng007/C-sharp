@@ -16,6 +16,8 @@ using VirtualLabAPI.Core.OpticalSystems;
 using VirtualLabAPI.Core.Propagation;
 using VirtualLabAPI.Core.SupportFunctions;
 
+// float 类型的x,y,z类型的参数也可以被使用
+
 namespace OwnCode {
     public class VLModule {
         public void Run() {
