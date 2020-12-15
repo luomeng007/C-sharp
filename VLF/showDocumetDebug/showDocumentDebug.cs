@@ -20,6 +20,8 @@ using VirtualLabAPI.Core.OpticalSystems;
 using VirtualLabAPI.Core.Propagation;
 using VirtualLabAPI.Core.SupportFunctions;
 
+// this program divide 7 points with 6 interval.
+
 namespace OwnCode {
     public class VLModule {
                 String pathOfFile = @"C:\Users\15025\Desktop\showDocumetDebug\showDocumentDebug.TXT";
