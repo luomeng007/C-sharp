@@ -8,6 +8,7 @@ namespace T_ArrayList
         public static void Main()
         {
 
+            // 相比于Array的用法，该方法创建的数组长度可以自增。
             // 创建一个ArrayList对象
             ArrayList myAL = new ArrayList();
             // 向其中添加一些元素，这里添加了三个字符串对象
