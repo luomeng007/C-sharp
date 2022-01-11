@@ -14,14 +14,28 @@ namespace CSharp_Tutorial
         static void Main(string[] args)
         {
             // method 1:
-            List<int> list1D = new List<int>(); // initialize a 1D list
+            List<int> list1D = new List<int>(); // initialize a 1D list without specifying length, this list theoretically can contain infinite elements
             // method 2:
-            List<int> _list1D = new List<int> { 1, 2 };
-
-            Console.WriteLine("The elements in _list1D are: ");
-            for (int i = 0; i < _list1D.Count; i++)  // loop print all values in _list1D
+            List<int> list1D_1 = new List<int>(2); // initialize a 1D list with specifying length
+            //However, this list theoretically can also contain infinite elements even we set its length as 2 at initialization.
+            // Like below, we can add three elements into it.
+            list1D_1.Add(1);
+            list1D_1.Add(2);
+            list1D_1.Add(3);
+            Console.WriteLine("The elements in list1D_1 are: ");
+            for (int i = 0; i < list1D_1.Count; i++)  // loop print all values in list1D_1
             {
-                Console.WriteLine(_list1D[i]);
+                Console.WriteLine(list1D_1[i]);
+            }
+            // method 3:
+            List<int> list1D_2 = new List<int> { 1, 2 };  // initialize a 1D list with specifying elements
+            // method 4:
+            List<int> list1D_3 = new List<int>(){ 1, 2 }; // initialize a 1D list with specifying elements
+            // Compared with method 3, we add brackets () here, this is official expression. Although the style in method 3 works, but I recommend the style in method 4.
+            Console.WriteLine("The elements in list1D_3 are: ");
+            for (int i = 0; i < list1D_3.Count; i++)  // loop print all values in list1D_3
+            {
+                Console.WriteLine(list1D_3[i]);
             }
         }
     }
