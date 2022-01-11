@@ -1,5 +1,5 @@
 # C Sharp
-# 基础用法
+# 基础语法
 [1. 定义类](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/classVariables.cs)  
 [2. 变量类型转换的两种常用方式---当系统语言为英文时](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/dataTypeConvert.cs)   
 [3. 变量类型转换的两种常用方式---当系统语言为德语时](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/dataTypeConvert01.cs)  
