@@ -3,6 +3,7 @@
 [001. Print Hello Word On Screen](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T001_print.cs)  
 [002. Variables](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T002_Variables.cs)  
 [003. Functions](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T003_Functions.cs)  
+[004. ElegantPrint](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T004_ElegantPrint.cs) 
 
 [1. 定义类](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/classVariables.cs)  
 [2. 变量类型转换的两种常用方式---当系统语言为英文时](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/dataTypeConvert.cs)   
