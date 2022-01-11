@@ -23,7 +23,6 @@ namespace CSharp_Tutorial
                 for (int j = 0; j < array2D.GetLength(1); j++)
                 {
                     Console.WriteLine(array2D[i, j]);
-
                 }
             }
         }
