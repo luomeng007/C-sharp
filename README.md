@@ -11,7 +11,7 @@
 [9. IEnumerator方法](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/listEnumerator.cs)   
 [10. 循环打印的几种方法](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/loopPrint.cs)  
 # 文件类操作
-[11. 读取字典的方法](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/readDierctory.cs)   
-[12. 逐个字符读取文件](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/readFileEachCharacter.cs) 
-[13. 按行读取文件](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/readFileEachLine.cs)   
-[14. 将数据写入txt文件](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/writeDataIntoTxtFile.cs) 
+[1. 读取字典的方法](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/readDierctory.cs)   
+[2. 逐个字符读取文件](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/readFileEachCharacter.cs) 
+[3. 按行读取文件](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/readFileEachLine.cs)   
+[4. 将数据写入txt文件](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/writeDataIntoTxtFile.cs) 
