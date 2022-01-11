@@ -29,7 +29,6 @@ namespace CSharp_Tutorial
                     for (int k = 0; k < array3D.GetLength(2); k++)
                     {
                         Console.WriteLine(array3D[i, j, k]);
-
                     }
                 }
             }
