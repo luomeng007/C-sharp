@@ -33,6 +33,7 @@ namespace CSharp_Tutorial
 
             // Generate 3D list
             List<List<List<int>>> list3D = new List<List<List<int>>>();
+            // the method for generating 3D list is similar at the method for generating 2D list. We can use loop-print method to print each element in list3D on our screen
         }
     }
 }
