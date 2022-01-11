@@ -14,9 +14,9 @@ namespace CSharp_Tutorial
         static void Main(string[] args)
         {
             // method 1:
-            var list1D = new List<int>(); // initialize a 1D list
+            List<int> list1D = new List<int>(); // initialize a 1D list
             // method 2:
-            var _list1D = new List<int> { 1, 2 };
+            List<int> _list1D = new List<int> { 1, 2 };
 
             Console.WriteLine("The elements in _list1D are: ");
             for (int i = 0; i < _list1D.Count; i++)  // loop print all values in _list1D
