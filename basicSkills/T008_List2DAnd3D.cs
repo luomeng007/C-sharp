@@ -28,7 +28,6 @@ namespace CSharp_Tutorial
                 {
                     Console.WriteLine(list2D[i][j]);
                 }
-
             }
 
             // Generate 3D list
