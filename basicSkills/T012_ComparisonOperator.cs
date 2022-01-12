@@ -1,6 +1,6 @@
 /*
 Description:
-    Aim: teach people compare two values by using comparision operator.
+    Aim: teach people how to compare two values by using comparision operator.
  */
 using System;
 
