@@ -2,7 +2,7 @@
 Description:
     Aim: teach people how to return value from customized function by using keyword "out".
 
-    use keyword "out" on single array.
+    use keyword "out" on single 1D array.
  */
 using System;
 
