@@ -23,7 +23,6 @@ namespace CSharp_Tutorial
             Console.WriteLine(string.Compare(s1, s2));
             Console.WriteLine(string.Compare(s2, s3));
             Console.WriteLine(string.Compare(s3, s4));
-
         }
     }
 }
