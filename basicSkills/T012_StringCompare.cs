@@ -2,7 +2,7 @@
 Description:
     Aim: teach people how to compare two strings.
     
-    string.Compare(a, b)
+    string.Compare(a, b) or String.Compare(a, b)
     if a > b: return 1
     if a < b: return -1
     if a = b; return 0
