@@ -2,7 +2,7 @@
 # Basis
 ### Print
 [001. Print Hello Word On Screen](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T001_print.cs)  
-[001. ElegantPrint](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T004_ElegantPrint.cs)  
+[004. ElegantPrint](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T004_ElegantPrint.cs)  
 
 [002. Variables](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T002_Variables.cs)  
 [003. Functions](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T003_Functions.cs)  
