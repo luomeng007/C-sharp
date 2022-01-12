@@ -3,8 +3,9 @@
 ### Print
 [001. Print Hello Word On Screen](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T001_print.cs)  
 [004. ElegantPrint](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T004_ElegantPrint.cs)  
-
+### Variables
 [002. Variables](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T002_Variables.cs)  
+### Functions
 [003. Functions](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T003_Functions.cs)  
 ### Array
 [005. One Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array1D.cs)  
