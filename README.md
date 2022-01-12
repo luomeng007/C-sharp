@@ -10,6 +10,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [002. Variables](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T002_Variables.cs)  
 ### Functions
 [003. Functions](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T003_Functions.cs)  
+[013. Functions](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T013_Keyword_ref.cs)  
 ### Array
 [005. One Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array1D.cs)  
 [005. Two Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array2D.cs)  
@@ -22,6 +23,10 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [009. Keyword---Count](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T009_Keyword_Count.cs)  
 [010. Keyword---Capacity](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T010_Keyword_Capacity.cs)  
 [011. Keyword---var](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T011_Keyword_var.cs)  
+### Comparision
+[012. Compare By Using Comparision Operators](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T012_ComparisonOperator.cs)  
+[012. Compare Two Strings](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T012_StringCompare.cs)  
+[012. Compare Two Values](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T012_ValueCompare.cs)  
 ### Code Encapsulation（代码封装）
 
 [1. 定义类](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/classVariables.cs)  
