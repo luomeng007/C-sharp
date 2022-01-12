@@ -5,7 +5,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 ## Basis
 ### Print
 [001. Print Hello Word On Screen](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T001_print.cs)  
-[004. ElegantPrint](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T004_ElegantPrint.cs)  
+[004. Elegant Print](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T004_ElegantPrint.cs)  
 ### Variables
 [002. Variables](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T002_Variables.cs)  
 ### Functions
