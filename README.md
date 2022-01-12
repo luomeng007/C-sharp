@@ -1,5 +1,8 @@
-# C Sharp
-# Basis
+# C Sharp Tutorials
+## Illustration
+The serial number like 001, 002 in content below, indicates the recommended reading order.  
+In order to make each part clear. For similar stuff, I would like to ascribe them into one group.
+## Basis
 ### Print
 [001. Print Hello Word On Screen](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T001_print.cs)  
 [004. ElegantPrint](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T004_ElegantPrint.cs)  
@@ -32,7 +35,7 @@
 [8. lambda方法](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/lambda.cs)  
 [9. IEnumerator方法](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/listEnumerator.cs)   
 [10. 循环打印的几种方法](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/loopPrint.cs)  
-# File Operation
+### File Operation
 [1. 读取字典的方法](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/readDierctory.cs)   
 [2. 逐个字符读取文件](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/readFileEachCharacter.cs) 
 [3. 按行读取文件](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/readFileEachLine.cs)   
