@@ -13,14 +13,14 @@ namespace CSharp_Tutorial
         static public void FillArray(out int[] myArray)
         {
             // Initialize the array:
-            myArray = new int[5] { 1, 2, 3, 4, 5 }; // If we leave out this step here, an error arise
+            myArray = new int[5] { 1, 2, 3, 4, 5 }; // If we leave out this step here, an error arises
         }
 
         static public void Main()
         {
             int[] myArray; // Initialization is not required
 
-            // Pass the array using out:
+            // Pass the array using "out":
             FillArray(out myArray);
 
             // Display the array elements:
