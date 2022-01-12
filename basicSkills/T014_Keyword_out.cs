@@ -15,7 +15,7 @@ namespace CSharp_Tutorial
             int a = 5;
             int b = 10;
             Add(a, b, out int sum);
-            // When we use "out" keyword, wo do not need to initialize it before we pass it to the calling function
+            // When we use "out" keyword, wo do not need to initialize parameters before we pass them to the calling function
             // This differs from keyword "ref". Of course we can do it like the way below.
             // int sum = 0; 
             // Add(a, b, out sum);
