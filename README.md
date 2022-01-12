@@ -22,7 +22,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [009. Keyword---Count](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T009_Keyword_Count.cs)  
 [010. Keyword---Capacity](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T010_Keyword_Capacity.cs)  
 [011. Keyword---var](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T011_Keyword_var.cs)  
-
+### Code Encapsulation（代码封装）
 
 [1. 定义类](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/classVariables.cs)  
 [2. 变量类型转换的两种常用方式---当系统语言为英文时](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/dataTypeConvert.cs)   
