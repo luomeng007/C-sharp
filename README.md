@@ -11,7 +11,6 @@
 [005. One Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array1D.cs)  
 [005. Two Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array2D.cs)  
 [005. Three Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array3D.cs)     
-
 [006. Keyword---Length](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T006_Keyword_Length.cs)  
 [007. Keyword---GetLength](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T007_Keyword_GetLength.cs)  
 
