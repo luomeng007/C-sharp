@@ -16,7 +16,6 @@ In order to make each part clear. For similar stuff, I would like to ascribe the
 [005. Three Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array3D.cs)     
 [006. Keyword---Length](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T006_Keyword_Length.cs)  
 [007. Keyword---GetLength](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T007_Keyword_GetLength.cs)  
-
 ### List
 [008. One dimensional List](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T008_List1D.cs)  
 [008. Two And Three dimensional List](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T008_List2DAnd3D.cs)  
