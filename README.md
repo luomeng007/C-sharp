@@ -1,7 +1,7 @@
 # C Sharp Tutorials
 ## Illustration
-The serial number like 001, 002 in content below, indicates the recommended reading order.  
-In order to make each part clear. For similar stuff, I would like to ascribe them into one group.
+The serial number like 001, 002 and so on in content below, indicates the recommended reading order.  
+In order to make each part clear. For similar stuffs, I would like to ascribe them into one group.  
 ## Basis
 ### Print
 [001. Print Hello Word On Screen](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T001_print.cs)  
