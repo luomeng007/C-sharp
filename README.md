@@ -1,14 +1,20 @@
 # C Sharp
 # Basis
+### Print
 [001. Print Hello Word On Screen](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T001_print.cs)  
+[001. ElegantPrint](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T004_ElegantPrint.cs)  
+
 [002. Variables](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T002_Variables.cs)  
 [003. Functions](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T003_Functions.cs)  
-[004. ElegantPrint](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T004_ElegantPrint.cs)  
+### Array
 [005. One Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array1D.cs)  
 [005. Two Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array2D.cs)  
-[005. Three Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array3D.cs)      
+[005. Three Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array3D.cs)     
+
 [006. Keyword---Length](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T006_Keyword_Length.cs)  
 [007. Keyword---GetLength](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T007_Keyword_GetLength.cs)  
+
+### List
 [008. One dimensional List](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T008_List1D.cs)  
 [008. Two And Three dimensional List](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T008_List2DAnd3D.cs)  
 [009. Keyword---Count](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T009_Keyword_Count.cs)  
