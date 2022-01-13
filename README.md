@@ -9,6 +9,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 ### Print
 [001. Print Hello Word On Screen](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T001_print.cs)  
 [004. Elegant Print](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T004_ElegantPrint.cs)  
+[017. Format Print](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T017_FormatPrint.cs)  
 ### Variables
 [002. Variables](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T002_Variables.cs)  
 ### Functions
@@ -35,6 +36,11 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [012. Compare By Using Comparision Operators](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T012_ComparisonOperator.cs)  
 [012. Compare Two Strings](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T012_StringCompare.cs)  
 [012. Compare Two Values](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T012_ValueCompare.cs)  
+### Annotations
+[015. Write Good Annotations](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T015_Annotations.cs)  
+### Data Type
+[016. Get Type Of Single Variable](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T016_GetDataTypeOfSingleVariable.cs)  
+[016. Get Type Of Elements In List](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T016_GetTypeOfElementInList.cs)  
 ### Code Encapsulation（代码封装）
 
 [1. 定义类](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/classVariables.cs)  
