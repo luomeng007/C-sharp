@@ -14,7 +14,7 @@ namespace CSharp_Tutorial
             int element = 5;
             // Method GetType() will return a type. So we need to save it by using a "type variable".
             Type type = element.GetType();
-            // 如果我们需要判断这个类型与其他的类型，比如与int类型，那么我们应该与typeof(int)进行比较
+            // If we need to compare this type with another type, like int type. We need to compare it with "typeof(int)".
             if (type == typeof(int))
             {
                 Console.WriteLine("Is the type of element int? {0}", "Yes");
