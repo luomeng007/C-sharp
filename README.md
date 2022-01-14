@@ -42,7 +42,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 ### Data Type
 [016. Get Type Of Single Variable](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T016_GetDataTypeOfSingleVariable.cs)  
 [016. Get Type Of Elements In List](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T016_GetTypeOfElementInList.cs)  
-[023. Keyword---as---Cast Type Object To Type String](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T023_Keyword_as.cs)  
+[023. Cast Type Object To Type String By Keyword---as](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T023_Keyword_as.cs)  
 [023. Cast Type Object To Type String By Assigning Vaues](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T023_CastObjecToStringByAssigningValues.cs) 
 ### Class
 
