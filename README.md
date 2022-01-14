@@ -43,9 +43,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [016. Get Type Of Elements In List](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T016_GetTypeOfElementInList.cs)  
 ### Code Encapsulation（代码封装）
 
-[1. 定义类](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/classVariables.cs)  
-[2. 变量类型转换的两种常用方式---当系统语言为英文时](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/dataTypeConvert.cs)   
-[3. 变量类型转换的两种常用方式---当系统语言为德语时](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/dataTypeConvert01.cs)  
+[1. 定义类](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/classVariables.cs)   
 [4. 赋值给变量默认default时，对应的值为0](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/defaultValue.cs)  
 [5. 定义字典](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/dictionary.cs)   
 [6. 格式化输出](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/formatPrint.cs)  
