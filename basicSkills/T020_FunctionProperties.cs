@@ -19,35 +19,35 @@ namespace CSharp_Tutorial
             Console.WriteLine(student.Age);
             Console.WriteLine(student.Name);
         }
+    }
 
-        class Student
+    class Student
+    {
+        private int age = 26;   // Initialization of variable age
+        private string name = "Xiao Ming";
+
+        // the first attribute
+        public int Age
         {
-            private int age = 26;   // Initialization of variable age
-            private string name = "Xiao Ming";
-
-            // the first attribute
-            public int Age
+            get
             {
-                get
-                {
-                    return age;
-                }
-                set
-                {
-                    age = value;
-                }
+                return age;
             }
-            // the second attribute
-            public string Name
+            set
             {
-                get
-                {
-                    return name;
-                }
-                set
-                {
-                    name = value;
-                }
+                age = value;
+            }
+        }
+        // the second attribute
+        public string Name
+        {
+            get
+            {
+                return name;
+            }
+            set
+            {
+                name = value;
             }
         }
     }
