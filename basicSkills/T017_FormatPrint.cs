@@ -3,7 +3,6 @@ Description:
     Aim: teach people how to print result in a good format.
  */
 using System;
-using System.Collections.Generic;
 
 namespace CSharp_Tutorial
 {
@@ -18,7 +17,6 @@ namespace CSharp_Tutorial
                 Console.WriteLine($"A is {a}");
             }
             // Method two----Like "format method" in Python);
-            foreach (var a in array) ");
             foreach (var a in array)
             {
                 Console.WriteLine("A is {0}", a);
