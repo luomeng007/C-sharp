@@ -10,6 +10,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [001. Print Hello Word On Screen](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T001_print.cs)  
 [004. Elegant Print](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T004_ElegantPrint.cs)  
 [017. Format Print](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T017_FormatPrint.cs)  
+[022. Loop Print](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_LoopPrint.cs)  
 ### Variables
 [002. Variables](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T002_Variables.cs)  
 ### Functions
