@@ -1,6 +1,8 @@
 /*
 Description:
     Aim: teach people how to use keyword "as".
+    
+    This method is not recommanded.     
  */
 using System;
 
@@ -9,9 +11,7 @@ namespace CSharp_Tutorial
     class Program
     {
         static void Main(string[] args)
-        {
-            // Usage one: convert type
-            // this method is not recommanded, we will get fixing tips for correction.        
+        { 
             // create str1
             string str1 = "Xiao Ming";
             // assign str1 to obj1
