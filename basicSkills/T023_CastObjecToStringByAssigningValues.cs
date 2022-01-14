@@ -15,6 +15,7 @@ namespace CSharp_Tutorial
             // Usage two:
             string str1 = "Xiao Ming";  // create str3           
             object obj1 = str1; // assign str1 to obj1  
+            // onject is a base class, so if we assign it with type string, it will be type string. 
             
             // cast to(transfer) a string
             // check
