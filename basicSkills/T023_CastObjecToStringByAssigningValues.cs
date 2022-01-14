@@ -1,6 +1,8 @@
 /*
 Description:
     Aim: teach people how to cast type object to type string by directly assigning values.
+    
+    Later we will talk about keyword "object" in detail.
  */
 using System;
 
