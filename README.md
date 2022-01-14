@@ -12,7 +12,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [017. Format Print](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T017_FormatPrint.cs)  
 [022. Loop Print](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_LoopPrint.cs)  
 ### Variables
-[002. Variables](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T002_Variables.cs)  
+[002. Basic Variables](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T002_BasicVariables.cs)  
 ### Functions
 [003. Define A Function For Adding Two Integers](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T003_Functions.cs)  
 [013. Keyword---ref On Single Variable](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T013_Keyword_ref_OnSingleVariable.cs)  
