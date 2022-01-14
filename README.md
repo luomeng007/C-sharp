@@ -41,7 +41,9 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 ### Data Type
 [016. Get Type Of Single Variable](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T016_GetDataTypeOfSingleVariable.cs)  
 [016. Get Type Of Elements In List](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T016_GetTypeOfElementInList.cs)  
-### Code Encapsulation（代码封装）
+### Class
+
+#### Code Encapsulation（代码封装）
 
 [1. 定义类](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/classVariables.cs)   
 [4. 赋值给变量默认default时，对应的值为0](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/defaultValue.cs)  
