@@ -10,7 +10,6 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [001. Print Hello Word On Screen](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T001_print.cs)  
 [004. Elegant Print](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T004_ElegantPrint.cs)  
 [017. Format Print](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T017_FormatPrint.cs)  
-[022. Loop Print](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_LoopPrint.cs)  
 ### Variables
 [002. Basic Type Variables](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T002_BasicTypeVariables.cs)  
 [019. Keyword---float_Single_double_Double](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T019_Keyword_float_Single_double_Double.cs)  
@@ -59,6 +58,9 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 ### Condition
 [022. Keyword---If Else](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T026_Keyword_if_else.cs)  
 ### Loop
+[022. For Loop](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_ForLoop.cs)  
+[022. Foreach Loop](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_ForeachLoop.cs)  
+[022. while Loop](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_whileLoop.cs)  
 #### Code Encapsulation（代码封装）
 
 [1. 定义类](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/classVariables.cs)   
