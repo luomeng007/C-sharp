@@ -47,7 +47,8 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [016. Get Type Of Single Variable](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T016_GetDataTypeOfSingleVariable.cs)  
 [016. Get Type Of Elements In List](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T016_GetTypeOfElementInList.cs)  
 #### Convert Data Type
-[018. Parse Method](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T018_Parse%20Method.cs)  
+[018. Parse Method](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T018_ParseMethod.cs)  
+[018. Convert Method](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T018_ConvertMethod.cs)  
 [023. Cast Type Object To Type String By Keyword---as](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T023_Keyword_as.cs)  
 [023. Cast Type Object To Type String By Assigning Vaues](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T023_CastObjecToStringByAssigningValues.cs) 
 ### Class
