@@ -66,7 +66,6 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [1. 定义类](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/classVariables.cs)   
 [4. 赋值给变量默认default时，对应的值为0](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/defaultValue.cs)  
 [5. 定义字典](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/dictionary.cs)   
-[6. 格式化输出](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/formatPrint.cs)  
 [7. getSet方法](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/getSet.cs)   
 [8. lambda方法](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/lambda.cs)  
 [9. IEnumerator方法](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/listEnumerator.cs)   
