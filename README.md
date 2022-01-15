@@ -58,9 +58,9 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 ### Condition
 [022. Keyword---If Else](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T026_Keyword_if_else.cs)  
 ### Loop
-[022. For Loop](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_ForLoop.cs)  
-[022. Foreach Loop](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_ForeachLoop.cs)  
-[022. while Loop](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_whileLoop.cs)  
+[022. Keyword---for](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_Keyword_for.cs)  
+[022. Keyword---foreach](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_Keyword_foreach.cs)  
+[022. Keyword---while](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_Keyword_while.cs)  
 #### Code Encapsulation（代码封装）
 
 [1. 定义类](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/classVariables.cs)   
