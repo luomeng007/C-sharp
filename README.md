@@ -36,16 +36,12 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [009. Keyword---Count](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T009_Keyword_Count.cs)  
 [010. Keyword---Capacity](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T010_Keyword_Capacity.cs)  
 [011. Keyword---var](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T011_Keyword_var.cs)  
-
-
-
 ### Comparision
 [012. Compare By Using Comparision Operators](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T012_ComparisonOperator.cs)  
 [012. Compare Two Strings](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T012_StringCompare.cs)  
 [012. Compare Two Values](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T012_ValueCompare.cs)  
 ### Annotations
 [015. Write Good Annotations](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T015_Annotations.cs)  
-
 ### Data Type
 #### Get Data Type
 [016. Get Type Of Single Variable](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T016_GetDataTypeOfSingleVariable.cs)  
@@ -54,13 +50,11 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [018. Convert Type String To Type Float](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T018_ConvertStringToFloat.cs)  
 [023. Cast Type Object To Type String By Keyword---as](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T023_Keyword_as.cs)  
 [023. Cast Type Object To Type String By Assigning Vaues](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T023_CastObjecToStringByAssigningValues.cs) 
-
 ### Class
 [020. Class Properties](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T020_ClassProperties.cs)  
 [020. Keyword---Public](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T020_Keyword_public.cs)  
 [020. Keyword---Private Package](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T020_Keywword_private_Package(%E5%B0%81%E8%A3%85).cs)  
 [021. Class Inherit](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T021_ClassInherit.cs)  
-
 ### Condition
 [022. Keyword---If Else](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T026_Keyword_if_else.cs)  
 ### Loop
