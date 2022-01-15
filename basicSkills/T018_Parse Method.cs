@@ -1,6 +1,6 @@
 /*
 Description:
-    Aim: teach people how to convert string type to float(single) type.
+    Aim: teach people how to use parse method to convert data type.
  */
 using System;
 using System.Globalization;
