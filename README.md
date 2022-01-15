@@ -23,6 +23,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [014. Keyword---out On Single Variable](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T014_Keyword_out_OnSingleVariable.cs)  
 [014. Keyword---out On Single 1D Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T014_Keyword_out_OnSingle1DArray.cs)  
 [014. Keyword---out on Multiple 1D Arrays](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T014_Keyword_out_OnMultiple1DArray.cs)  
+[027. Swap Values In Two Variables By Using Generic Method](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T027_swapTwoValuesByGenericMethod.cs)  
 ### Array
 [005. One Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array1D.cs)  
 [005. Two Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array2D.cs)  
