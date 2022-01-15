@@ -15,6 +15,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [019. Keyword---float_Single_double_Double](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T019_Keyword_float_Single_double_Double.cs)  
 [024. Keyword---const](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T024_Keyword_const.cs)  
 [025. Keyword---object](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T025_Kryword_object.cs)  
+[028. Set Variables By Using Generic Method](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T028_SetVariablesByUsingGenericMethod.cs)  
 ### Functions
 [003. Define A Function For Adding Two Integers](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T003_Functions.cs)  
 [013. Keyword---ref On Single Variable](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T013_Keyword_ref_OnSingleVariable.cs)  
@@ -62,7 +63,9 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [022. Keyword---for](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_Keyword_for.cs)  
 [022. Keyword---foreach](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_Keyword_foreach.cs)  
 [022. Keyword---while](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_Keyword_while.cs)  
-#### Code Encapsulation（代码封装）
+## Advanced
+
+
 
 [1. 定义类](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/classVariables.cs)   
 [4. 赋值给变量默认default时，对应的值为0](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/defaultValue.cs)  
