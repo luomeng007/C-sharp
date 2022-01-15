@@ -14,7 +14,6 @@ namespace CSharp_Tutorial
             foreach (var a in array)
             {
                 Console.WriteLine($"A is {a}");
-
             }
         }
     }
