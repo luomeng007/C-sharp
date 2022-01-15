@@ -18,11 +18,18 @@ namespace CSharp_Tutorial
             string s = "10.5";  // define a string
             float x = Single.Parse(s, CultureInfo.InvariantCulture);
             Console.WriteLine(x.GetType());
-
-            // method 2: Convert method
-            string s1 = "10.5";
-            float x1 = Convert.ToSingle(s1, CultureInfo.InvariantCulture);
-            Console.WriteLine(x1.GetType());
+            // There are a lot of methods. Like Convert.ToSingle. Such as:
+            //Byte.Parse();
+            //Char.Parse();
+            //Double.Parse();
+            //Int16.Parse();
+            //Int32.Parse();
+            //Int64.Parse();
+            //Boolean.Parse();
+            //UInt16.Parse();
+            //UInt32.Parse();
+            //UInt64.Parse();
+            // For string, we can use .ToString() method
         }
     }
 }
