@@ -13,6 +13,8 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [022. Loop Print](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_LoopPrint.cs)  
 ### Variables
 [002. Basic Type Variables](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T002_BasicTypeVariables.cs)  
+[024. Keyword---const](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T024_Keyword_const.cs)  
+[025. Keyword---object](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T025_Kryword_object.cs)  
 ### List
 [008. One dimensional List](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T008_List1D.cs)  
 [008. Two And Three dimensional List](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T008_List2DAnd3D.cs)  
