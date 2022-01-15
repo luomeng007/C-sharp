@@ -57,6 +57,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [020. Keyword---Public](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T020_Keyword_public.cs)  
 [020. Keyword---Private Package](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T020_Keywword_private_Package(%E5%B0%81%E8%A3%85).cs)  
 [021. Class Inherit](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T021_ClassInherit.cs)  
+[029. Define A Generic Class](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T029_DefineGenericClass.cs)  
 ### Condition
 [022. Keyword---If Else](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T026_Keyword_if_else.cs)  
 ### Loop
@@ -67,7 +68,6 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 
 
 
-[1. 定义类](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/classVariables.cs)   
 [4. 赋值给变量默认default时，对应的值为0](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/defaultValue.cs)  
 [5. 定义字典](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/dictionary.cs)   
 [7. getSet方法](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/getSet.cs)   
