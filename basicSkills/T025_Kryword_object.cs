@@ -18,6 +18,7 @@ namespace CSharp_Tutorial
             double d = 1.0;
             obj1 = d;
             Console.WriteLine(obj1.GetType());  // Type: System.Double
+            // Actually. we assign any types like string, char, float, double type to object type. The object type will automatically changed into these types.
 
             // However, if we assign a integer type value a1 to an double type variable like d1. The type of d1
             // will still be System.Double. 
