@@ -13,6 +13,22 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [022. Loop Print](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_LoopPrint.cs)  
 ### Variables
 [002. Basic Type Variables](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T002_BasicTypeVariables.cs)  
+### List
+[008. One dimensional List](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T008_List1D.cs)  
+[008. Two And Three dimensional List](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T008_List2DAnd3D.cs)  
+[009. Keyword---Count](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T009_Keyword_Count.cs)  
+[010. Keyword---Capacity](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T010_Keyword_Capacity.cs)  
+[011. Keyword---var](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T011_Keyword_var.cs)  
+### Array
+[005. One Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array1D.cs)  
+[005. Two Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array2D.cs)  
+[005. Three Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array3D.cs)     
+[006. Keyword---Length](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T006_Keyword_Length.cs)  
+[007. Keyword---GetLength](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T007_Keyword_GetLength.cs)  
+### Condition
+[022. Keyword---If Else](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T026_Keyword_if_else.cs)  
+### Loop
+
 ### Functions
 [003. Define A Function For Adding Two Integers](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T003_Functions.cs)  
 [013. Keyword---ref On Single Variable](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T013_Keyword_ref_OnSingleVariable.cs)  
@@ -21,28 +37,13 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [014. Keyword---out On Single Variable](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T014_Keyword_out_OnSingleVariable.cs)  
 [014. Keyword---out On Single 1D Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T014_Keyword_out_OnSingle1DArray.cs)  
 [014. Keyword---out on Multiple 1D Arrays](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T014_Keyword_out_OnMultiple1DArray.cs)  
-### Array
-[005. One Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array1D.cs)  
-[005. Two Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array2D.cs)  
-[005. Three Dimensional Array](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T005_Array3D.cs)     
-[006. Keyword---Length](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T006_Keyword_Length.cs)  
-[007. Keyword---GetLength](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T007_Keyword_GetLength.cs)  
-### List
-[008. One dimensional List](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T008_List1D.cs)  
-[008. Two And Three dimensional List](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T008_List2DAnd3D.cs)  
-[009. Keyword---Count](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T009_Keyword_Count.cs)  
-[010. Keyword---Capacity](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T010_Keyword_Capacity.cs)  
-[011. Keyword---var](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T011_Keyword_var.cs)  
 ### Comparision
 [012. Compare By Using Comparision Operators](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T012_ComparisonOperator.cs)  
 [012. Compare Two Strings](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T012_StringCompare.cs)  
 [012. Compare Two Values](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T012_ValueCompare.cs)  
 ### Annotations
 [015. Write Good Annotations](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T015_Annotations.cs)  
-### Loop
 
-### Condition
-[026. Keyword---If Else](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T026_Keyword_if_else.cs)  
 ### Data Type
 #### Get Data Type
 [016. Get Type Of Single Variable](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T016_GetDataTypeOfSingleVariable.cs)  
