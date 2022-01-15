@@ -14,7 +14,6 @@ namespace CSharp_Tutorial
             // Why we need to use this package(library)(namespace)?
             // we use CultureInfo.InvariantCulture because in some culture, like German, comma will be regarded as a decimal rather that point
             // the CultureInfo belongs to System.Globalization namespace
-            // method 1: parse method
             string s = "10.5";  // define a string
             float x = Single.Parse(s, CultureInfo.InvariantCulture);
             Console.WriteLine(x.GetType());
