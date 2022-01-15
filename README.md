@@ -39,6 +39,10 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [012. Compare Two Values](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T012_ValueCompare.cs)  
 ### Annotations
 [015. Write Good Annotations](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T015_Annotations.cs)  
+### Loop
+
+### Judge
+
 ### Data Type
 #### Get Data Type
 [016. Get Type Of Single Variable](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T016_GetDataTypeOfSingleVariable.cs)  
