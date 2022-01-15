@@ -41,7 +41,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [015. Write Good Annotations](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T015_Annotations.cs)  
 ### Loop
 
-### Judge
+### Condition
 
 ### Data Type
 #### Get Data Type
