@@ -1,6 +1,10 @@
+/*
+Description:
+    Aim: teach people how to use get set methods in class.
+ */
 using System;
 
-namespace debug
+namespace CSharp_Tutorial
 {
     #region example one
     //class Person
