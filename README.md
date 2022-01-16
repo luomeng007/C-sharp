@@ -7,7 +7,7 @@ The serial number like 001, 002 and so on in content below, indicates the recomm
 In order to make each part clear. For similar stuffs, I would like to ascribe them into one group.  
 ## Basis
 ### Print
-[001. Print Hello Word On Screen](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T001_print.cs)  
+[001. Print Hello Word On Screen](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T001_Print.cs)  
 [004. Elegant Print](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T004_ElegantPrint.cs)  
 [017. Format Print](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T017_FormatPrint.cs)  
 ### Variables
