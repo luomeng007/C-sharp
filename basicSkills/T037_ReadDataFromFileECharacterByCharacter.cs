@@ -1,3 +1,7 @@
+/*
+Description:
+    Aim: teach people how to read data from specific file character by character.
+ */
 using System;
 using System.IO;
 using System.Text;
