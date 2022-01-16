@@ -53,6 +53,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [018. Convert Method](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T018_ConvertMethod.cs)  
 [023. Cast Type Object To Type String By Keyword---as](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T023_Keyword_as_CastObjecToStringByAssigningValues.cs)  
 [023. Cast Type Object To Type String By Assigning Vaues](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T023_CastObjecToStringByAssigningValues.cs) 
+[031. Use Keyword Directly](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T031_UseKeyword.cs) 
 ### Class
 [020. Class Properties](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T020_ClassProperties.cs)  
 [020. Keyword---Public](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T020_Keyword_public.cs)  
