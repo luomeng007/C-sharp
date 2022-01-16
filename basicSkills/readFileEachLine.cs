@@ -1,7 +1,11 @@
+/*
+Description:
+    Aim: teach people how to read data from specific file line by line.
+ */
 using System;
 using System.IO;
 
-namespace readData
+namespace CSharp_Tutorial
 {
     class Program
     {
