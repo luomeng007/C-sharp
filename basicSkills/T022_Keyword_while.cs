@@ -1,7 +1,7 @@
 /*
-Description:
-    Aim: teach people how to use dictionary in c sharp.
- */
+ Description:
+     Aim: teach people how to write loop by using keyword "enumerator" and "while".
+*/
 using System;
 
 namespace CSharp_Tutorial
