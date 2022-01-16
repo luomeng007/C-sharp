@@ -5,7 +5,7 @@ Description:
 using System;
 using System.IO;    // this package is necessary
 
-namespace readData
+namespace CSharp_Tutorial
 {
     class Program
     {
