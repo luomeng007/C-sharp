@@ -71,14 +71,10 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [022. Keyword---while](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_Keyword_while.cs)  
 ### Dictionary
 [034. Create Dictionary](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T034_Dictionary.cs)  
-## Advanced
-
-
-
-
-[8. lambda方法](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/lambda.cs)    
 ### File Operation
-[1. 读取字典的方法](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/readDierctory.cs)   
-[2. 逐个字符读取文件](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/readFileEachCharacter.cs) 
-[3. 按行读取文件](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/readFileEachLine.cs)   
-[4. 将数据写入txt文件](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/writeDataIntoTxtFile.cs) 
+[037. Read Data From Specific Directory](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T037_ReadDataFromSpecificDirectory.cs)   
+[037. Read Data From File Character By Character](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T037_ReadDataFromFileCharacterByCharacter.cs) 
+[037. Read Data From File Line By Line](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T037_ReadDataFromFileLineByLine.cs)   
+[038. Write Data Into File](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T038_WriteDataIntoFile.cs) 
+## Advanced
+[036. Lambda Expression And Delegate Method](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T036_LambdaExpressionAndDelegateMethod.cs)  
