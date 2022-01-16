@@ -1,6 +1,6 @@
 /*
 Description:
-    Aim: teach people how to write data from specific directory.
+    Aim: teach people how to read data from specific directory.
  */
 using System;
 using System.IO;    // this package is necessary
