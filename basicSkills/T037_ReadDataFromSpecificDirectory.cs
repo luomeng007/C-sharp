@@ -1,5 +1,9 @@
+/*
+Description:
+    Aim: teach people how to write data from specific directory.
+ */
 using System;
-using System.IO;
+using System.IO;    // this package is necessary
 
 namespace readData
 {
@@ -7,7 +11,6 @@ namespace readData
     {
         static void Main(string[] args)
         {
-            #region
             // info will store the full directory we give
             DirectoryInfo info = new DirectoryInfo(@"C:\documents\C#Project\Pro_W\researchData\downloadFile\releasedFile\");
             // Exists method will get a bool value, if directory exits, True. Attention, judge directory not file.
@@ -26,7 +29,6 @@ namespace readData
             {
                 info.Delete();
             }
-            #endregion
         }
     }
 }
