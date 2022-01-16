@@ -1,6 +1,6 @@
 /*
 Description:
-    Aim: teach people how to use dictionary in c sharp.
+    Aim: teach people the function of keyword "GetLength" in C Sharp.
  */
 using System;
 
