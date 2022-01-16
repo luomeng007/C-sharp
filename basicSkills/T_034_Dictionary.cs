@@ -1,7 +1,11 @@
+/*
+Description:
+    Aim: teach people how to use dictionary in c sharp.
+ */
 using System;
 using System.Collections.Generic;
 
-namespace debug
+namespace CSharp_Tutorial
 {
     class Program
     {
