@@ -1,6 +1,6 @@
 /*
 Description:
-    Aim: teach people how to write loop by using keyword "enumerator" and "while".
+    Aim: teach people how to use dictionary in c sharp.
  */
 using System;
 
@@ -11,12 +11,12 @@ namespace CSharp_Tutorial
         static void Main(string[] args)
         {
             var array = new int[] { 1, 2, 3 };
-            var enumerator = array.GetEnumerator(); // create an enumerator contain array
-            // if we could reach the next position of enumerator
-            while (enumerator.MoveNext())
+            int i = 0;
+            while (i < array.GetLength(0))
             {
-                // print element in current position
-                Console.WriteLine($"A is {enumerator.Current}");
+                // print each element
+                Console.WriteLine($"A is {array[i]}");
+                i++;
             }
         }
     }
