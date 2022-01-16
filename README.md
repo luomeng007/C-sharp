@@ -12,6 +12,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [017. Format Print](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T017_FormatPrint.cs)  
 ### Variables
 [002. Basic Type Variables](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T002_BasicTypeVariables.cs)  
+[002. Basic Calculations](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T002_BasicCalculations.cs)  
 [019. Keyword---float_Single_double_Double](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T019_Keyword_float_Single_double_Double.cs)  
 [024. Keyword---const](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T024_Keyword_const.cs)  
 [025. Keyword---object](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T025_Kryword_object.cs)  
@@ -78,3 +79,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [038. Write Data Into File](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T038_WriteDataIntoFile.cs) 
 ## Advanced
 [036. Lambda Expression And Delegate Method](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T036_LambdaExpressionAndDelegateMethod.cs)  
+[039. Complex Variables](https://github.com/luomeng007/C-sharp/blob/main/advancedSkill/T039_ComplexVariables.cs)  
+[040. Enumeration Method](https://github.com/luomeng007/C-sharp/blob/maEnumeration Method)  
+[041. Keyword---sizeof](https://github.com/luomeng007/C-sharp/blob/main/advancedSkill/T041_Kwyword_sizeof.cs)  
+[042. Ternary Operator](https://github.com/luomeng007/C-sharp/blob/main/advancedSkill/T042_TernaryOperator.cs)  
