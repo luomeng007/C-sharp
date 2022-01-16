@@ -80,6 +80,6 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 ## Advanced
 [036. Lambda Expression And Delegate Method](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T036_LambdaExpressionAndDelegateMethod.cs)  
 [039. Complex Variables](https://github.com/luomeng007/C-sharp/blob/main/advancedSkill/T039_ComplexVariables.cs)  
-[040. Enumeration Method](https://github.com/luomeng007/C-sharp/blob/maEnumeration Method)  
+[040. Enumeration Method](https://github.com/luomeng007/C-sharp/blob/main/advancedSkill/T040_Enumerations.cs)  
 [041. Keyword---sizeof](https://github.com/luomeng007/C-sharp/blob/main/advancedSkill/T041_Kwyword_sizeof.cs)  
 [042. Ternary Operator](https://github.com/luomeng007/C-sharp/blob/main/advancedSkill/T042_TernaryOperator.cs)  
