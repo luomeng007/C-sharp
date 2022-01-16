@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 
-namespace pythonPackage
+namespace PythonPackage
 {
-    public class py
+    public class Python
     {
         public static void Print<T>(IEnumerable<T> array)
         {
