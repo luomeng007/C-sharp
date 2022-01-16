@@ -2,13 +2,13 @@ using System;
 using System.IO;
 using System.Text;
 
-namespace readData
+namespace CSharp_Tutorial
 {
     class Program
     {
         static void Main(string[] args)
         {
-            #region method1: use using method to open file. we could leave out close progress
+            // By using "using method" to open file. we could leave out close progress
             string path = @"C:\Users\15025\Desktop\C#Debug\debug.txt";
             if (File.Exists(path))
             {
@@ -34,9 +34,7 @@ namespace readData
                     }
                     Console.WriteLine();
                 }
-            }
-            # endregion
-            
+            }        
         }
     }
 }
