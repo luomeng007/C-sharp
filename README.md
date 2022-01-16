@@ -83,3 +83,4 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [040. Enumeration Method](https://github.com/luomeng007/C-sharp/blob/main/advancedSkill/T040_Enumerations.cs)  
 [041. Keyword---sizeof](https://github.com/luomeng007/C-sharp/blob/main/advancedSkill/T041_Kwyword_sizeof.cs)  
 [042. Ternary Operator](https://github.com/luomeng007/C-sharp/blob/main/advancedSkill/T042_TernaryOperator.cs)  
+[Others](https://github.com/luomeng007/C-sharp/tree/main/advancedSkill)  
