@@ -1,8 +1,13 @@
+/*
+Description:
+    Aim: teach people how to use listEnumerator method.
+ */
 using System;
+using System.Collections.Generic;
 
-namespace basicUsage
+namespace CSharp_Tutorial
 {
-    class listEnumerator
+    class Program
     {
         static void Main(string[] args)
         {
