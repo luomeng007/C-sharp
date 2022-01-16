@@ -16,6 +16,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [024. Keyword---const](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T024_Keyword_const.cs)  
 [025. Keyword---object](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T025_Kryword_object.cs)  
 [028. Set Variables By Using Generic Method](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T028_SetVariablesByUsingGenericMethod.cs)  
+[032. Set Variables With Default Values](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T032_defaultValue.cs)  
 ### Functions
 [003. Define A Function For Adding Two Integers](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T003_Functions.cs)  
 [013. Keyword---ref On Single Variable](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T013_Keyword_ref_OnSingleVariable.cs)  
@@ -38,6 +39,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [009. Keyword---Count](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T009_Keyword_Count.cs)  
 [010. Keyword---Capacity](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T010_Keyword_Capacity.cs)  
 [011. Keyword---var](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T011_Keyword_var.cs)  
+[035. Enumerator Method](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T035_listEnumerator.cs)  
 ### Comparision
 [012. Compare By Using Comparision Operators](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T012_ComparisonOperator.cs)  
 [012. Compare Two Strings](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T012_StringCompare.cs)  
@@ -60,12 +62,15 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [020. Keyword---Private Package](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T020_Keywword_private_Package(%E5%B0%81%E8%A3%85).cs)  
 [021. Class Inherit](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T021_ClassInherit.cs)  
 [029. Define A Generic Class](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T029_DefineGenericClass.cs)  
+[033. Get And Set Method](https://github.com/luomeng007/C-sharp/tree/main/basicSkills)  
 ### Condition
 [022. Keyword---If Else](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T026_Keyword_if_else.cs)  
 ### Loop
 [022. Keyword---for](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_Keyword_for.cs)  
 [022. Keyword---foreach](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_Keyword_foreach.cs)  
 [022. Keyword---while](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T022_Keyword_while.cs)  
+### Dictionary
+[034. Create Dictionary](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T034_Dictionary.cs)  
 ## Advanced
 
 
