@@ -73,7 +73,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 [034. Create Dictionary](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T034_Dictionary.cs)  
 ### File Operation
 [037. Read Data From Specific Directory](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T037_ReadDataFromSpecificDirectory.cs)   
-[037. Read Data From File Character By Character](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T037_ReadDataFromFileCharacterByCharacter.cs) 
+[037. Read Data From File Character By Character](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T037_ReadDataFromFileCharacterByCharacter.cs)  
 [037. Read Data From File Line By Line](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T037_ReadDataFromFileLineByLine.cs)   
 [038. Write Data Into File](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T038_WriteDataIntoFile.cs) 
 ## Advanced
