@@ -1,6 +1,6 @@
 /*
 Description:
-    Aim: teach people to print in a elegant way
+    Aim: teach people to print in an elegant way
     
     Before, we talked about print function, but usually, we want to print things with some tips. Not only the variables themselves.
 
