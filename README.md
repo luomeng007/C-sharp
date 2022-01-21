@@ -60,7 +60,7 @@ In order to make each part clear. For similar stuffs, I would like to ascribe th
 ### Class
 [020. Class Properties](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T020_ClassProperties.cs)  
 [020. Keyword---Public](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T020_Keyword_public.cs)  
-[020. Keyword---Private Package](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T020_Keywword_private_Package(%E5%B0%81%E8%A3%85).cs)  
+[020. Keyword---Private(Package)](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T020_Keywword_private_Package(%E5%B0%81%E8%A3%85).cs)  
 [021. Class Inherit](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T021_ClassInherit.cs)  
 [029. Define A Generic Class](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T029_DefineGenericClass.cs)  
 [033. Get And Set Method](https://github.com/luomeng007/C-sharp/blob/main/basicSkills/T033_getSet.cs)  
